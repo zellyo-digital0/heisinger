@@ -1,4 +1,2 @@
-# heisinger
 
-vidit: https://faruq05.github.io/heisinger/
-# heisinger
+# https://zellyo-digital0.github.io/heisinger
